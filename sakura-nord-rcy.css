@@ -5,7 +5,7 @@
  * Project: https://github.com/oxalorg/sakura/
  *
  * Color scheme adjusted by Ross Young for use on r-c-y.net
- * text/bg contrast increased slighty, added magenta accent color for mailto link
+ * Uses colors from the Nord palette by Arctic Ice Studio, see nord.css for more details
  */
 /* Body */
 @import "nord.css";
