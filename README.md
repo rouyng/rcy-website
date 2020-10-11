@@ -7,3 +7,4 @@ This is a very minimal site  built with the following tools:
 - [Nord](https://github.com/arcticicestudio/nord): an arctic, north-bluish color palette.
 - [Email Obfuscator](http://rot13.florianbersier.com/): Javascript email obfuscator using ROT13
 
+This site also supports `prefers-color-scheme` ([info](https://web.dev/prefers-color-scheme/)), automatically switching to a "light mode" color scheme according to browser preferences.
