@@ -31,6 +31,9 @@ body {
   body {
     font-size: 1.35rem; } }
 
+
+
+
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
@@ -196,3 +199,28 @@ label, legend, fieldset {
   display: block;
   margin-bottom: .5rem;
   font-weight: 600; }
+
+/* If browser supports prefers-color-scheme, give sickos who prefer light mode what they want */
+@media (prefers-color-scheme: light) {
+  body {
+    color: var(--nord0);
+    background-color: var(--nord6);}
+
+  a {
+  color: var(--nord10); }
+  a:hover {
+    background-color: var(--nord5);
+    color: var(--nord7);
+    border-bottom: 2px solid var(--nord7); }
+  a:visited {
+    color: var(--nord9);
+  }
+
+  pre {
+  background-color: var(--nord5);
+  }
+
+  code {
+    background-color: var(--nord5);
+    }
+  }
