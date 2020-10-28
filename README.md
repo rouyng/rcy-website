@@ -1,3 +1,4 @@
+[![publish status shield](https://img.shields.io/github/workflow/status/rouyng/rcy-website/Publish%20Website?label=publish&style=flat-square)](https://github.com/rouyng/rcy-website/actions?query=workflow%3A%22Publish+Website%22)
 # R-C-Y.NET
 Repository containing my personal website, viewable at www.r-c-y.net
 
