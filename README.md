@@ -1,6 +1,6 @@
-[![deploy status shield](https://img.shields.io/github/workflow/status/rouyng/rcy-website/Publish%20Website?label=deploy&style=flat-square)](https://github.com/rouyng/rcy-website/actions?query=workflow%3A%22Publish+Website%22)
-# R-C-Y.NET
-Repository containing my personal website, viewable at www.r-c-y.net
+[![deploy status shield](https://img.shields.io/github/workflow/status/rouyng/rcy-website/Publish%20Website?label=deploy&style=flat-square)](https://github.com/rouyng/rcy-website/actions?query=workflow%3A%22Publish+Website%22) ![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=http%3A%2F%2Fwww.r-c-y.net)
+# [R-C-Y.NET](www.r-c-y.net)
+Repository containing my personal website
 
 This is a very minimal site  built with the following tools:
 - [sakura](https://github.com/oxalorg/sakura): a minimal classless css framework / theme.
