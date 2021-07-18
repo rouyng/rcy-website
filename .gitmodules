@@ -1,0 +1,12 @@
+[submodule "themes/smol"]
+	path = themes/smol
+	url = https://github.com/colorchestra/smol
+[submodule "rcy/themes/smol"]
+	path = rcy/themes/smol
+	url = https://github.com/colorchestra/smol
+[submodule "rcy/themes/etch"]
+	path = rcy/themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
+[submodule "rcy/themes/book"]
+	path = rcy/themes/book
+	url = https://github.com/alex-shpak/hugo-book
